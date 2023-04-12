@@ -1,7 +1,9 @@
 {
-  "url": "https://ledtorch.github.io/tonconnect-manifest.json",
-  "name": "(Vue) Minting Tool",
-  "iconUrl": "https://ledtorch.github.io/capoo.png",
+  "url": "https://ledtorch.github.io/telegramBot/tonconnect-manifest.json",
+  "name": "(JavaScript) TOP Wallet Bot",
+  "iconUrl": "https://ledtorch.github.io/telegramBot/Devbot.jpg",
   "termsOfUseUrl": "<terms-of-use-url>",
-  "privacyPolicyUrl": "<privacy-policy-url>"
+  "privacyPolicyUrl": "<privacy-policy-url>",
+  "dappId": "your-dapp-id",
+  "dappName": "your-dapp-name"
 }
